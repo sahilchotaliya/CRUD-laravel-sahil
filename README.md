@@ -1,13 +1,6 @@
-## Laravel 8 Crud with Image Upload Tutorial
 
-Read More: https://realprogrammer.in/laravel-8-crud-with-image-upload-tutorial/
 
-## About
 
-First Step: download in your system.
-
-```
-    git clone https://github.com/siddharth018/laravel-8-image-crud.git
 
 ```
 
